@@ -1,0 +1,1 @@
+data/classify_digits_data/mnist.npy filter=lfs diff=lfs merge=lfs -text
